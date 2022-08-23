@@ -216,7 +216,7 @@ namespace CowsAndBulls
             bulls = 0;
             cows = 0;
 
-            if (!inputNumber.All(num => int.TryParse(num.ToString(), out _)))
+            if (!inputNumber.All(ch => ch >= '0' && ch <= '9'))
                 throw new FormatException("Во введенном числе обнаружены некорректные символы.");
 
             if (inputNumber.Length != inputNumber.Distinct().Count())
