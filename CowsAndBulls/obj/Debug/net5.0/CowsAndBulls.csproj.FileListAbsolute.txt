@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/CowsAndBulls.deps.json
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/CowsAndBulls.runtimeconfig.json
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/CowsAndBulls.runtimeconfig.dev.json
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/CowsAndBulls.dll
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/ref/CowsAndBulls.dll
+/Users/macbook/Projects/Tasks/CowsAndBulls/bin/Debug/net5.0/CowsAndBulls.pdb
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.AssemblyInfo.cs
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.dll
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/ref/CowsAndBulls.dll
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.pdb
+/Users/macbook/Projects/Tasks/CowsAndBulls/obj/Debug/net5.0/CowsAndBulls.genruntimeconfig.cache
