@@ -41,8 +41,7 @@ namespace CowsAndBulls
             {
                 ComandLineArgs = args.Length == 0 ? null : args;
 
-                Console.InputEncoding = Encoding.UTF8;
-                Console.OutputEncoding = Encoding.UTF8;
+                Console.InputEncoding = Console.OutputEncoding = Encoding.UTF8;
 
                 RepeatingMethod();
             }
@@ -213,8 +212,7 @@ namespace CowsAndBulls
         /// <returns> Отгадал ли пользователь число полностью (true or false). </returns>
         private static bool CheckEquality(string numberToGuess, string inputNumber, out int bulls, out int cows)
         {
-            bulls = 0;
-            cows = 0;
+            bulls = cows = 0;
 
             if (!inputNumber.All(ch => ch >= '0' && ch <= '9'))
                 throw new FormatException("Во введенном числе обнаружены некорректные символы.");
